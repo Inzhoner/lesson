@@ -1,6 +1,9 @@
-/* ul {
-    list-style: none;
-} */
+body {
+    background-color: rgb(255, 226, 176);
+    font-size: 24px;
+    width: 1200px;
+    margin: 0 auto;
+}
 
 code {
     background-color: #ecf0f3;
@@ -12,19 +15,10 @@ a {
     cursor: pointer;
 }
 
-
-
-body {
-    background-color: rgb(255, 226, 176);
-    font-size: 24px;
-}
-
-
-.container {
+/* .container {
     width: 1200px;
-    /* text-align: center; */
     margin: 0 auto;
-}
+} */
 
 .title {
     font-size: 60px;
